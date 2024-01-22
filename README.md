@@ -1,2 +1,2 @@
 # OOAD-POS
-Tugas OOAD hehe
+Making justduit POS application using Java GUI and MySQL
